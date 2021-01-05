@@ -6,13 +6,13 @@ A group of Challenges which help to better understand Java Script!!
 
 
 
-challenge 1-   calculating the number of Days a person has lived
+challenge 1-   calculating Age in Days.
 
 
 challenge-2    Generating random cat videos using public API's.
 
 
-challenge -3   Creating Rock Paper Scissor's Game
+challenge -3   Creating a Game on Rock Paper Scissor's 
 
 
 
